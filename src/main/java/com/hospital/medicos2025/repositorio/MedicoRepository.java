@@ -4,6 +4,5 @@ import org.springframework.data.repository.CrudRepository;
 
 import com.hospital.medicos2025.modelo.Medico;
 
-public interface MedicoRepository extends CrudRepository<Medico,Integer>{
-
+public interface MedicoRepository extends CrudRepository<Medico, Integer> {
 }
